@@ -1,4 +1,4 @@
-# SpotPlayer
+# Spot-Player
 Spotify view of your current playing song and keyboard shortcuts to change current song.  
 
 This 'player' use a global hook to create some shortcuts.  
